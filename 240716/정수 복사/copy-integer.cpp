@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
     ios::sync_with_stdio(false);
-    cout << "3 3\n6";
+    cout << "3 3\n9";
     return 0;
 }
