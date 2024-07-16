@@ -6,6 +6,6 @@ int main() {
     cin.tie(NULL);
     short n;
     cin >> n;
-    cout << "Your score is " << 143 << " point.";
+    cout << "Your score is " << n << " point.";
     return 0;
 }
